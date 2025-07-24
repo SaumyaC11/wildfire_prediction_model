@@ -1,7 +1,7 @@
 # **Wildfire Analysis of the United States**
 
 ### **Contributors**
-This project is a collaborative effort by Niket Pathak, Moulshree Guleria, Linda Mansour, and Saumya Chaudhary. Each contributor played an equal role, working both independently and collaboratively to achieve the results presented in this analysis.
+This project is a collaborative effort by Niket Pathak, Moulshree Guleria, Linda Mansour, and Saumya Chaudhary for CS 418 Introduction to Data Science. Each contributor played an equal role, working both independently and collaboratively to achieve the results presented in this analysis.
 
 ---
 
